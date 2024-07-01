@@ -19,7 +19,13 @@
 2. 下载并双击 `GPT-for-Annotation_x.x.x.eagleplugin` 插件本地安装包进行安装。
 
 ## 例子
-![1719812302722](https://github.com/facok/GPT-for-Annotation/assets/128763816/03cb98db-00db-454c-bc97-3f42fb5642a5)
+云端第三方API
+![云端第三方API](https://github.com/facok/GPT-for-Annotation/assets/128763816/03cb98db-00db-454c-bc97-3f42fb5642a5)
+本地内网API-HunyuanCaptioner
+![本地内网API-HunyuanCaptioner](https://github.com/facok/GPT-for-Annotation/assets/128763816/93e1bee7-8398-4953-802e-afadcf25a188)
+本地内网API-Florence-2-SD3-Captioner
+![本地内网API-Florence-2-SD3-Captioner](https://github.com/facok/GPT-for-Annotation/assets/128763816/1ffb621c-fb88-40cc-a582-c78247ffb3ff)
+
 
 ## 更多信息
 
