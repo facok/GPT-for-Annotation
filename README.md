@@ -30,3 +30,5 @@
 ## 更多信息
 
 了解更多关于 Eagle 插件开发的信息，请访问 [Eagle 插件开发](https://developer.eagle.cool/plugin-api/v/zh-cn)。
+
+Eagle Beta 版下载：https://cn.eagle.cool/blog/post/4.0-beta
