@@ -18,6 +18,9 @@
 1. 确保已经正确安装 Eagle 4.0 beta 或以上版本。
 2. 下载并双击 `GPT-for-Annotation_x.x.x.eagleplugin` 插件本地安装包进行安装。
 
+## 例子
+![1719812302722](https://github.com/facok/GPT-for-Annotation/assets/128763816/03cb98db-00db-454c-bc97-3f42fb5642a5)
+
 ## 更多信息
 
 了解更多关于 Eagle 插件开发的信息，请访问 [Eagle 插件开发](https://developer.eagle.cool/plugin-api/v/zh-cn)。
