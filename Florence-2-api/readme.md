@@ -27,9 +27,11 @@ Florence-2-api 是一个用于生成图像描述的本地 OpenAI API 接口，�
 ## 安装
 
 ### 安装依赖环境
+Tips: Florence2的环境需求和混元DiT基本重合，如果你已有混元DiT环境，可以跳过依赖安装直接使用。
 ```bash
 pip install -r requirements_florence2.txt
 ```
+
 
 ### 下载打标模型
 使用 `huggingface-cli` 工具下载打标模型到本地目录：
