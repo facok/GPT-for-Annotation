@@ -41,7 +41,7 @@ cp caption_api_demo.py ./HunyuanDiT/mllm
 ### 运行 API 服务
 启动 API 服务：
 ```bash
-python mllm/caption_demo_api.py
+python mllm/caption_api_demo.py
 ```
 ### 用法
 ```bash
