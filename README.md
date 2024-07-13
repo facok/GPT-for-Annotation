@@ -26,9 +26,11 @@
 本地内网API-Florence-2-SD3-Captioner
 ![本地内网API-Florence-2-SD3-Captioner](https://github.com/facok/GPT-for-Annotation/assets/128763816/1ffb621c-fb88-40cc-a582-c78247ffb3ff)
 
-
 ## 更多信息
 
 了解更多关于 Eagle 插件开发的信息，请访问 [Eagle 插件开发](https://developer.eagle.cool/plugin-api/v/zh-cn)。
 
 Eagle Beta 版下载：https://cn.eagle.cool/blog/post/4.0-beta
+
+## 感谢
+https://github.com/jiayev/GPT4V-Image-Captioner
